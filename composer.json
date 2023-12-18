@@ -1,0 +1,14 @@
+{
+    "name": "shyim/shopware-libxml2-fix",
+    "authors": [
+        {
+            "name": "Soner Sayakci",
+            "email": "github@shyim.de"
+        }
+    ],
+    "autoload": {
+        "files": [
+            "src/xsd-redirector.php"
+        ]
+    }
+}
